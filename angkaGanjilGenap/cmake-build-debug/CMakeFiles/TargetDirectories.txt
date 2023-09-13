@@ -1,0 +1,3 @@
+/home/timus/CLionProjects/angkaGanjilGenap/cmake-build-debug/CMakeFiles/angkaGanjilGenap.dir
+/home/timus/CLionProjects/angkaGanjilGenap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timus/CLionProjects/angkaGanjilGenap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
