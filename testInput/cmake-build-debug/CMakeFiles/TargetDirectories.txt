@@ -1,0 +1,3 @@
+/home/timus/CLionProjects/testInput/cmake-build-debug/CMakeFiles/testInput.dir
+/home/timus/CLionProjects/testInput/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timus/CLionProjects/testInput/cmake-build-debug/CMakeFiles/rebuild_cache.dir

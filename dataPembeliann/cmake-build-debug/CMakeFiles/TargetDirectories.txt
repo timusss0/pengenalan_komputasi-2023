@@ -1,0 +1,3 @@
+/home/timus/CLionProjects/dataPembeliann/cmake-build-debug/CMakeFiles/dataPembeliann.dir
+/home/timus/CLionProjects/dataPembeliann/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timus/CLionProjects/dataPembeliann/cmake-build-debug/CMakeFiles/rebuild_cache.dir
