@@ -1,0 +1,3 @@
+/home/timus/CLionProjects/pertemuan6/cmake-build-debug/CMakeFiles/pertemuan6.dir
+/home/timus/CLionProjects/pertemuan6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timus/CLionProjects/pertemuan6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
