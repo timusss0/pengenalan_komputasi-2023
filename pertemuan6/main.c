@@ -3,31 +3,31 @@
 int main() {
 
 //   goto label 1
-//int i=1;
-//    ulang:
-//    printf("1 %d\n",i);
-//    ++i;
-//    if(i>3){
-//        printf("\n\n");
-//        i=1;
+int q=1;
+    loop:
+    printf("1 %d\n",q);
+    ++q;
+    if(q>3){
+        printf("\n\n");
+        q=1;
 //        ulang1:
-//        printf("2 %d\n",i);
-//        ++i;
-//        if(i>3){
+//        printf("2 %d\n",q);
+//        ++q;
+//        if(q>3){
 //
 //            printf("\n\n");
 //            return 0;
 //        } else {
 //            goto ulang1;
 //        }
-//    } else{
-//        goto ulang;
-//    }
+    } else{
+        goto loop;
+    }
 
 
-//    for (int i = 0; i < 10; ++i) {
-//        printf("halo\n");
-//    }
+    for (int e = 0; e < 10; ++e) {
+        printf("halo\n");
+    }
 
 int i=1;
     ulang:
@@ -41,12 +41,14 @@ int i=1;
             goto ulang;
         }
     }else{
-        i++;
+       i++;
         goto ulang;
     }
 
     return 0;
 
 
-//    FOR DAN WHILE
+
+
+
 }
