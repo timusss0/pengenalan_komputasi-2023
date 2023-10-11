@@ -1,0 +1,3 @@
+/home/timus/CLionProjects/looping7/cmake-build-debug/CMakeFiles/looping7.dir
+/home/timus/CLionProjects/looping7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timus/CLionProjects/looping7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
