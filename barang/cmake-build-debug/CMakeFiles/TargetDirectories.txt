@@ -1,0 +1,3 @@
+/home/timus/CLionProjects/barang/cmake-build-debug/CMakeFiles/barang.dir
+/home/timus/CLionProjects/barang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timus/CLionProjects/barang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
