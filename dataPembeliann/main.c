@@ -1,31 +1,37 @@
-#include <stdio.h>
-
-int main() {
-    char kp[2],np[20];
-    int harga, quantity, total;
-
-    printf("Data Pembelian \n");
-    printf("--------------------\n");
-
-    printf( "Kode Produk: ");
-    gets(kp);
-
-    printf("Nama produk");
-    gets(np);
-
-    printf( "harga produk: Rp");scanf("%d",&harga);
-
-    printf( "quantity produk");scanf( "%d",&quantity );
+#include<stdio.h>
+#include<string.h>
 
 
-    printf(  "Kode produk: %s\n", kp);
-    printf( "nama produk: %s\n", np);
-    printf("harga produk: %d\n", harga);
-    printf(  "quantity: %d\n", quantity);
 
-    total=harga*quantity;
+int hrg_brg, q, byr, tot_byr, kmbl;
+char kd_brg[5], nm_brg[30] ,jwb[2];
 
-    printf("TOTAL BELANJA : Rp %d", total);
+int main()
+{
+    printf("PEMBELIAN\n");
+    printf("-------------------------------\n");
+    printf("Kode Barang  : "); gets(kd_brg);
+//    strlwr(kd_brg); kd_brg"lb013;
+    if((strcmp(kd_brg,"LB013") == 0) || (strcmp(kd_brg,"lb013") == 0))
+    {
+        strcpy(nm_brg,"Layangan Besar");
 
+        hrg_brg = 17550;
+    }
+
+    printf("Nama Barang  : %s\n", nm_brg);
+    printf("Harga Barang : Rp %d\n", hrg_brg);
+    printf("Kuantitas    : "); scanf("%d", &q);
+    printf("-------------------------------\n");
+    tot_byr = hrg_brg * q;
+    printf("Total Bayar  : Rp %d\n", tot_byr);
+    printf("Bayar        : Rp "); scanf("%d", &byr);
+    printf("-------------------------------\n");
+    kmbl = byr - tot_byr;
+    printf("Kembali      : Rp %d", kmbl);
+    printf("\n\n");
+    printf("Terima Kasih Sudah Berbelanja\n\n");
     return 0;
+
+
 }

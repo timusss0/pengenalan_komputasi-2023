@@ -1,0 +1,3 @@
+/home/timus/CLionProjects/dataMahasiswa/cmake-build-debug/CMakeFiles/dataMahasiswa.dir
+/home/timus/CLionProjects/dataMahasiswa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timus/CLionProjects/dataMahasiswa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

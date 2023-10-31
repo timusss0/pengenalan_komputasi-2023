@@ -1,10 +1,10 @@
-/snap/clion/250/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/250/bin/ninja/linux/x64/ninja -G Ninja -S /home/timus/CLionProjects/pertemuann7 -B /home/timus/CLionProjects/pertemuann7/cmake-build-debug
+/snap/clion/250/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/timus/CLionProjects/pertemuann7 -B /home/timus/CLionProjects/pertemuann7/cmake-build-debug
 -- The C compiler identification is GNU 11.4.0
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
 -- Check for working C compiler: /usr/bin/cc - skipped
 -- Detecting C compile features
 -- Detecting C compile features - done
--- Configuring done (4.0s)
+-- Configuring done (2.2s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/timus/CLionProjects/pertemuann7/cmake-build-debug

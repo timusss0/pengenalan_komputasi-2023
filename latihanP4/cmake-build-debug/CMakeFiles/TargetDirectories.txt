@@ -1,0 +1,3 @@
+/home/timus/CLionProjects/latihanP4/cmake-build-debug/CMakeFiles/latihanP4.dir
+/home/timus/CLionProjects/latihanP4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timus/CLionProjects/latihanP4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -20,35 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5806a9f-59b8-49eb-9422-be85b2b27f98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-6ec54dc1ad4c16497957.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-9faffc30e8498c052176.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7da7d1f91509fd00f34b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-04T13-21-12-0721.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-pertemuan7-Debug-37e11b03e12f6a0b5444.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-ab6bc179ddbddbdb0d31.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    <list default="true" id="1f3390dc-c62e-4fa0-baa2-b3f986b6b132" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../angkaGanjilGenap/cmake-build-debug/.cmake/api/v1/reply/cache-v2-24464bb98bad0d723efc.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../angkaGanjilGenap/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-9a09593d1868574c4c73.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../angkaGanjilGenap/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-13T15-15-54-0898.json" beforeDir="false" />
@@ -72,7 +44,17 @@
       <change beforePath="$PROJECT_DIR$/../dataPembeliann/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../dataPembeliann/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dataPembeliann/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../dataPembeliann/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pertemuan4/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pertemuan4/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pertemuan6/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pertemuan6/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pertemuan7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-9faffc30e8498c052176.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-04T13-21-12-0721.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pertmuan5/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pertmuan5/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tugasP5/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../tugasP5/main.c" afterDir="false" />
     </list>
@@ -96,7 +78,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="2WIgjnEue32tuz6zWrCIDTiUeqc" />
+  <component name="ProjectId" id="2WZaVmZOFT4D6dcQJO8SGtf7e4R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -132,12 +114,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c5806a9f-59b8-49eb-9422-be85b2b27f98" name="Changes" comment="" />
-      <created>1696425647066</created>
+      <changelist id="1f3390dc-c62e-4fa0-baa2-b3f986b6b132" name="Changes" comment="" />
+      <created>1696942582095</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1696425647066</updated>
-      <workItem from="1696425655085" duration="679000" />
+      <updated>1696942582095</updated>
+      <workItem from="1696942586467" duration="1609000" />
     </task>
     <servers />
   </component>
