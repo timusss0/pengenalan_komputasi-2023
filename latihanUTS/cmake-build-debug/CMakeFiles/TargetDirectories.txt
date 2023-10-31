@@ -1,0 +1,3 @@
+/home/timus/CLionProjects/latihanUTS/cmake-build-debug/CMakeFiles/latihanUTS.dir
+/home/timus/CLionProjects/latihanUTS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timus/CLionProjects/latihanUTS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
